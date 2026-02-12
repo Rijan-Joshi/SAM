@@ -1,1 +1,1 @@
-# Experiments on Segment Anything Model
+# Experiments on Segment Anything Model (SAM)
